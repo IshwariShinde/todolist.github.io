@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todolist.github.io/static/css/main.cf6e01e4.css",
+    "main.js": "/todolist.github.io/static/js/main.35b049bb.js",
+    "static/media/todoimg.jpeg": "/todolist.github.io/static/media/todoimg.8c21a63532cd13782fde.jpeg",
+    "index.html": "/todolist.github.io/index.html",
+    "main.cf6e01e4.css.map": "/todolist.github.io/static/css/main.cf6e01e4.css.map",
+    "main.35b049bb.js.map": "/todolist.github.io/static/js/main.35b049bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf6e01e4.css",
+    "static/js/main.35b049bb.js"
+  ]
+}
